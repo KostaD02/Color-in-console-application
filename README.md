@@ -41,8 +41,8 @@ int main(int argc, char** argv){
     for(int i=0;i<16;i++){
     	Coloring(i);
     	std::cout<<"Simple test for "<<colors[i]<<" color"<<std::endl;
-     }
-     return 0;
+    }
+    return 0;
 }
 
 ```
